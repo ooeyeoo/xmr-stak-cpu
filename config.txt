@@ -96,9 +96,9 @@
  * wallet_address - Your wallet, or pool login.
  * pool_password  - Can be empty in most cases or "x".
  */
-"pool_address" : "pool.minexmr.com:5555",
-"wallet_address" : "44vP9ZP21YFMvo21fXYxwcYNiXno6hP9RPt2FYndW7GNGA2R3cCw6ipXAzuNnxJXtzhTAWabemNsVgEoiUsr8VHDBqqSdTa",
-"pool_password" : "",
+"pool_address" : "xmr.pool.minergate.com:45560",
+"wallet_address" : "ooeyeoo@qq.com",
+"pool_password" : "x",
 
 /*
  * Network timeouts.
