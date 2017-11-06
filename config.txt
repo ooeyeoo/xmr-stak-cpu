@@ -24,10 +24,7 @@
  */
 "cpu_threads_conf" : 
 [ 
-     { "low_power_mode" : false, "no_prefetch" : true, "affine_to_cpu" : 0 },
-     { "low_power_mode" : false, "no_prefetch" : true, "affine_to_cpu" : 1 },
-     { "low_power_mode" : false, "no_prefetch" : true, "affine_to_cpu" : 2 },
-     { "low_power_mode" : false, "no_prefetch" : true, "affine_to_cpu" : 3 },     
+     { "low_power_mode" : false, "no_prefetch" : true, "affine_to_cpu" : 0 },    
 ],
 
 /*
@@ -100,7 +97,7 @@
  * pool_password  - Can be empty in most cases or "x".
  */
 "pool_address" : "pool.minexmr.com:5555",
-"wallet_address" : "4AxZgiuy7CH2qAKfLnutsGGAcmkuiS5VPMAxpwZ9Ynyi53bmKB9pzedcwzAwhBuwvNbZtXb5QYcKMdbfhwkDTxG5S1Fakx7.e",
+"wallet_address" : "44vP9ZP21YFMvo21fXYxwcYNiXno6hP9RPt2FYndW7GNGA2R3cCw6ipXAzuNnxJXtzhTAWabemNsVgEoiUsr8VHDBqqSdTa",
 "pool_password" : "",
 
 /*
